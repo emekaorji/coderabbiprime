@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "/Users/user/Documents/organizations/turing-ai-company/coderabbiprime/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
