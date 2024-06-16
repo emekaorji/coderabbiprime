@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CoderabbiprimeApplication<coderabbiprime>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.coderabbix.coderabbiprime.CoderabbiprimeApplication",
+      "projectName": "coderabbiprime",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
